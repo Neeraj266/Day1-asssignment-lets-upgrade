@@ -1,0 +1,38 @@
+/* body{
+
+    background-color: aqua;
+}
+.background{
+    height:300px;
+    width:75%;
+    margin-left:10%;
+    background-color:hotpink;
+    text-align: center;
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(73, 160, 15);
+}
+h2{
+    color:goldenrod;
+}
+
+.h{
+    color:green;
+} */
+
+body{
+    background-color: #2d2d2d;
+    text-align: center;
+}
+
+h1{
+    color:#C26356;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
